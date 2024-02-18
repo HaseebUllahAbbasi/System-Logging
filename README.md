@@ -157,6 +157,8 @@ When you access the Grafana UI, you would appreciate the different components.
 
 ## Hope you got it
 
-## Devops Revision
+## Additional Information
 
-# <haseeb.se.dev@gmail.com>
+* **LinkedIn Profile:** [Haseebullah Abbasi](https://www.linkedin.com/in/haseebullahabbasi/)
+* **Email:** <haseeb.se.dev@gmail.com>
+* **GitHub Profile:** [haseebUllahAbbasi](https://github.com/haseebUllahAbbasi/)
